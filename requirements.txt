@@ -3,3 +3,4 @@ pandas
 openpyxl
 plotly
 matplotlib
+starlette<0.40.0
